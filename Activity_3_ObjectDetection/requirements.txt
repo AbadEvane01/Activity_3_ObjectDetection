@@ -1,5 +1,5 @@
 streamlit==1.33.0
-streamlit-webrtc==0.47.1
+st.warning("Webcam not supported in cloud. Use image upload instead.")
 numpy==1.26.4
 opencv-python-headless==4.8.1.78
 ultralytics
